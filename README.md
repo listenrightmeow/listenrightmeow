@@ -1,6 +1,6 @@
 VP Strategic Accounts, Technology @ [The Witslab](https://thewitslab.com/). Founder of [Coada](https://github.com/coada-dev). I build tools that make domain modeling less painful and more honest.
 
-Check out my [Blog](https://listenrightmeow.hashnode.dev/), [LinkedIn](https://www.linkedin.com/in/listenrightmeow/), or [ORCID](https://orcid.org/0009-0005-0034-5476) if that's your thing.
+Check out my [Blog](https://blog.coada.dev/), [LinkedIn](https://www.linkedin.com/in/listenrightmeow/), or [ORCID](https://orcid.org/0009-0005-0034-5476) if that's your thing.
 
 ## Current Projects
 
