@@ -16,11 +16,11 @@ Check out my [Blog](https://blog.coada.dev/), [LinkedIn](https://www.linkedin.co
 
 ### ✍️ Blog Series — DDD, AI & Signal-Driven Development
 
-1. [DDD Has a Solo-Builder Problem](https://listenrightmeow.hashnode.dev/ddd-has-a-solo-builder-problem)
-2. [Knowledge Crunching Doesn't Need a Room](https://listenrightmeow.hashnode.dev/knowledge-crunching-doesnt-need-a-room)
-3. [The Reactive Path Has No Vocabulary](https://listenrightmeow.hashnode.dev/the-reactive-path-has-no-vocabulary)
-4. [Introducing Signal-Driven Development](https://listenrightmeow.hashnode.dev/introducing-signal-driven-development)
-5. [The Gap Report: DDD's Missing Feedback Loop](https://listenrightmeow.hashnode.dev/the-gap-report-ddds-missing-feedback-loop)
+1. [DDD Has a Solo-Builder Problem](https://blog.coada.dev/ddd-has-a-solo-builder-problem)
+2. [Knowledge Crunching Doesn't Need a Room](https://blog.coada.dev/knowledge-crunching-doesnt-need-a-room)
+3. [The Reactive Path Has No Vocabulary](https://blog.coada.dev/the-reactive-path-has-no-vocabulary)
+4. [Introducing Signal-Driven Development](https://blog.coada.dev/introducing-signal-driven-development)
+5. [The Gap Report: DDD's Missing Feedback Loop](https://blog.coada.dev/the-gap-report-ddds-missing-feedback-loop)
 
 ## Community
 
