@@ -1,4 +1,4 @@
-VP Strategic Accounts, Technology @ [The Witslab](https://thewitslab.com/). Founder of [Coada](https://github.com/coada-dev), [flmnt](https://flmnt.ai), and [Feature](https://feature.mmmnt.ai/)
+VP Strategic Accounts, Technology @ [The Witslab](https://thewitslab.com/). Founder of [Coada](https://coada.dev), [flmnt](https://flmnt.ai), [Feature](https://feature.mmmnt.ai/), [mmmnt](https://mmmnt.ai), and [Complai](https://complai.mmmnt.ai).
 
 Check out my [Blog](https://blog.coada.dev/), [LinkedIn](https://www.linkedin.com/in/listenrightmeow/), or [ORCID](https://orcid.org/0009-0005-0034-5476)
 
